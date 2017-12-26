@@ -5,3 +5,6 @@ The Upper Garden Steps Deck is a wooden deck (or a paved area) that will connect
 * The Upper Garden Steps
 * The wooden walk way behind the studio, running between the studio and the wooden retaining wall.
 * The wooden steps coming up from the laundry and workshop.
+
+---------------------------------------------------------------------
+Back to [Images Directory](..)
