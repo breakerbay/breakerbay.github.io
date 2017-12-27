@@ -6,7 +6,6 @@ The steps should be slightly above the ground level on the northern side.
 The storm water pipe should still be accessible.
 
 ## Photos
----------------------------------------------------------------------
 * [Garage North Wall - from inside the garage](IMG_1604-garage-north-wall-inside.png))
 * [Garage North Wall - entrance to garage](IMG_1605-garage-north-wall-front.png)
 * [Garage North Wall - curent steps 1](IMG_1606-garage-north-wall-current-steps-1.png)
