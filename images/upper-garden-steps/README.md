@@ -17,8 +17,8 @@ The Upper Garden Steps will meet with and be consistent with the Upper Garden Ra
 * [Upper Garden Steps 5](IMG_1655-upper-garden-steps-5.png)
 * [Upper Garden Steps 6](IMG_1656-upper-garden-steps-6.png)
 * [Upper Garden Steps 7](IMG_1654-upper-garden-steps-7.png)
-* [Upper Garden Steps 8](IMG_1652-upper-garden-steps-8b.png)
-* [Upper Garden Steps 9](IMG_1651-upper-garden-steps-8.png)
+* [Upper Garden Steps 8](IMG_1651-upper-garden-steps-8b.png)
+* [Upper Garden Steps 9](IMG_1652-upper-garden-steps-8.png)
 * [Upper Garden Steps 10](IMG_1653-upper-garden-steps-9.png)
 
 ---------------------------------------------------------------------
