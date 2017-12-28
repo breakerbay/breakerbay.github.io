@@ -1,3 +1,8 @@
 body {
     background-color: #fff;
 }
+
+div.thumb.ng-scope[style] {
+    height: 15em !important;
+    width: 15em !important;
+}
