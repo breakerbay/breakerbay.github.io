@@ -168,5 +168,4 @@ app.controller('main', function ($scope, $timeout, $interval) {
     console.log('Delete  img: ' + JSON.stringify(img));
     cb();
   }
-})
-;
+});
