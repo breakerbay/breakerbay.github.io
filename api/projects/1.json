@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "name": "Storm Water Steps",
+  "descr": "Steps up the northern side of the garage, built to allow access to the storm water cover on the top corner.",
+  "number": 1,
+  "images": [
+    {
+      "checklistNumber": 35,
+      "checklistId": 3556,
+      "jobId": 2302,
+      "jobName": "1-01  Preliminaries-35"
+    },
+    {
+      "checklistNumber": 34,
+      "checklistId": 3555,
+      "jobId": 2301,
+      "jobName": "Simple-34"
+    }
+  ]
+}
