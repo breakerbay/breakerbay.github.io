@@ -1,4 +1,6 @@
-var app = angular.module('app', ['ui.router', 'ngAnimate', 'ngMessages', 'ngSanitize', 'ui.bootstrap', 'ui.bootstrap.tpls', 'thatisuday.ng-image-gallery']);
+//var app = angular.module('app', ['ui.router', 'ngAnimate', 'ngMessages', 'ngSanitize', 'ui.bootstrap', 'ui.bootstrap.tpls', 'thatisuday.ng-image-gallery']);
+
+var app = angular.module('app', ['ui.router', 'ngAnimate', 'ngMessages', 'ui.bootstrap', 'ui.bootstrap.tpls', 'thatisuday.ng-image-gallery']);
 
 
 app.config(['$stateProvider', '$urlRouterProvider', '$httpProvider', '$locationProvider', function ($stateProvider, $urlRouterProvider, $httpProvider, $locationProvider) {
@@ -12,13 +14,12 @@ app.config(['$stateProvider', '$urlRouterProvider', '$httpProvider', '$locationP
   $stateProvider
     .state('projects', {
       url: '/',
-      templateUrl: 'index.html',
+      template: '',
       controller: 'ProjectsCtrl',
       authenticate: false
     })
-    .state('projects.project', {
-      url: '{number:int}',
-      //url: 'projects',
+    .state('project', {
+      url: '/{number:int}',
       templateUrl: 'components/projects/templates/project.html',
       controller: 'ProjectCtrl',
       authenticate: false,

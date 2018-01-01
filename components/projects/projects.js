@@ -1,7 +1,33 @@
 /**
  * Created by richardhancock on 1/01/18.
  */
-app.controller('ProjectsCtrl', ['$scope', function ($scope) {
+// app.controller('ProjectsCtrl', ['$scope','projectSummary', function ($scope, projectSummary) {
+app.controller('ProjectsCtrl', ['$scope', '$state', '$http', '$location', function ($scope, $state, $http, $location) {
+
+  $scope.isNavCollapsed = true;
+  $scope.isCollapsed = false;
+  $scope.isCollapsedHorizontal = false;
+
+  $scope.isActive = function (viewLocation) {
+    var path = "/" + viewLocation;
+    return path === $location.path();
+  };
+
+  $scope.InitPage = function () {
+
+    $http.get("api/projects/projects.json")
+      .then(function (response) {
+        //First function handles success
+        $scope.projects = response.data;
+        console.log('Http Status code: ' + response.status + ', message: ' + response.statusText);
+        console.log("ProjectsCtrl projects:" + JSON.stringify($scope.projects));
+      }, function (response) {
+        //Second function handles error
+        $scope.content = "Something went wrong";
+        console.log('Http Error: ' + response);
+      });
+  };
+
   $scope.images = [
     {
       id: 1,
