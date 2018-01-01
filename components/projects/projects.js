@@ -173,13 +173,9 @@ app.controller('ProjectsCtrl', ['$scope', function ($scope) {
 
 }]);
 
-/*
- app.controller('ProjectCtrl', ['$scope','project', function ($scope,project) {
- console.log('ProjectCtrl');
-}]);
- */
-
-app.controller('ProjectCtrl', ['$scope', 'project', function ($scope, project) {
+app.controller('ProjectCtrl', ['$scope', 'project', '$sce', function ($scope, project, $sce) {
   $scope.project = project.data;
   console.log("ProjectCtrl project:" + JSON.stringify(project));
+
+  $scope.trusted = $sce.trustAsHtml($scope.project.summary);
 }]);
