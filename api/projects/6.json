@@ -1,9 +1,9 @@
 {
-  "id": 1,
-  "name": "Storm Water Steps",
-  "descr": "Steps up the northern side of the garage, built to allow access to the storm water cover on the top corner.",
-  "summary": "<h3>Key points</h3><ul><li>Steps to be level with or slightly above ground level</li><li>Steps to join with the wooden steps above</li><li>Storm water cover on corner to accessible</li><li>Longitudinal boards running up the hill to provide structural support</li></ul>",
-  "number": 1,
+  "id": 6,
+  "name": "Upper Garden Steps Deck",
+  "descr": "Upper Garden Steps Deck",
+  "summary": "Upper Garden Steps Deck",
+  "number": 6,
   "images": [
     {
       "checklistNumber": 35,

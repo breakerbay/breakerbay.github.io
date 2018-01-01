@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Storm Water Steps",
+    "number": 1
+  },
+  {
+    "id": 2,
+    "name": "Workshop Walkway",
+    "number": 2
+  },
+  {
+    "id": 3,
+    "name": "Laundry Terrace",
+    "number": 3
+  },
+  {
+    "id": 4,
+    "name": "Upper Garden Railing Fence",
+    "number": 4
+  },
+  {
+    "id": 5,
+    "name": "Upper Garden Steps",
+    "number": 5
+  },
+  {
+    "id": 6,
+    "name": "Upper Garden Steps Deck",
+    "number": 6
+  }
+]
