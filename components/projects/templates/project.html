@@ -1,0 +1,25 @@
+<div>
+  <div class="row">
+    <h4 class="project-name">{{project.name}}</h4>
+  </div>
+
+  <div class="row">
+    <div class="form-group">
+      <label class="control-label" for="name">Name</label>
+
+      <div class="controls">
+        <input autofocus id="name" name="name" class="form-control" ng-maxlength="255"
+               ng-model="project.name" readonly/>
+      </div>
+    </div>
+
+    <div class="form-group" ng-show="project.descr">
+      <label class="control-label" for="description">Description</label>
+
+      <div class="controls">
+          <textarea id="description" name="description" class="form-control" rows="3" ng-maxlength="255"
+                    ng-model="project.descr" readonly></textarea>
+      </div>
+    </div>
+  </div>
+</div>

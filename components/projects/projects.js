@@ -173,5 +173,13 @@ app.controller('ProjectsCtrl', ['$scope', function ($scope) {
 
 }]);
 
-app.controller('ProjectCtrl', ['$scope', function ($scope) {
+/*
+ app.controller('ProjectCtrl', ['$scope','project', function ($scope,project) {
+ console.log('ProjectCtrl');
+}]);
+ */
+
+app.controller('ProjectCtrl', ['$scope', 'project', function ($scope, project) {
+  $scope.project = project.data;
+  console.log("ProjectCtrl project:" + JSON.stringify(project));
 }]);
