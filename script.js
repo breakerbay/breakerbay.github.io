@@ -10,6 +10,7 @@ let streamStarted = false;
 
 const [play, pause, screenshot] = buttons;
 
+/*
 const constraints = {
   video: {
     width: {
@@ -23,6 +24,11 @@ const constraints = {
       max: 1440
     },
   }
+};
+*/
+
+const constraints = {
+  video: true
 };
 
 cameraOptions.onchange = () => {
