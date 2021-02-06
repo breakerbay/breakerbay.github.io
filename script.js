@@ -25,10 +25,18 @@ const constraints = {
     },
   }
 };
+
+const constraints = {
+  video: true,
+};
 */
 
 const constraints = {
-  video: true
+  video: {
+    facingMode: {
+      exact: 'environment'
+    }
+  }
 };
 
 cameraOptions.onchange = () => {
