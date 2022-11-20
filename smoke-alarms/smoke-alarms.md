@@ -9,4 +9,4 @@ Smoke Alarms (required for RTA):
 
 <img src="./20221104_100800-firealarm-in-main-living-area-2.jpg"  alt="firealarm-in-main-living-area-2" width="600" />
 
-<a href="https://www.w3schools.com/" target="_blank"><img src="./20221104_100800-firealarm-in-main-living-area-2.jpg"  alt="firealarm-in-main-living-area-2" width="600" /></a>
+<a href="./20221104_100800-firealarm-in-main-living-area-2.jpg" target="_blank"><img src="./20221104_100800-firealarm-in-main-living-area-2.jpg"  alt="firealarm-in-main-living-area-2" width="600" /></a>
