@@ -4,7 +4,7 @@ In order for this property to comply with the Healthy Homes Standards, the follo
 ( Jackson Prattley-Jones, Chris Kuester )
 
 
-Draught Stopping:
+[Draught Stopping](./draught-stopping/draught-stopping.md):
 
     Lounge: Windows (V-Seal)
     Kitchen: Windows (V-Seal)
@@ -14,6 +14,7 @@ Draught Stopping:
     When this has been completed, please send me photos of all of the windows sealed 
 
 
+[Roof Gutters](./roof-guttering/roof-guttering.md)
 
 Gutter Clean:
 
@@ -22,12 +23,14 @@ Gutter Clean:
 
 [Smoke Alarms](./smoke-alarms/smoke-alarms.md)
 
+
 Smoke Alarms are required for RTA:
 
     I don’t remember spotting these while I was there but if they are installed, please send me a photo
     See details on report for where they need to be
 
-Heat Pump
+
+[Heat Pump](./heat-pump/heat-pump.md)
 
 ```Forgot to mention that you need to deep clean or replace filters on the heat pump to remove the mould. Contact Atkinson AC to do this work.```
 
