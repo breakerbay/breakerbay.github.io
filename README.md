@@ -20,8 +20,9 @@ Gutter Clean:
     Clean out all gutters and send photos when done
 
 
+[Smoke Alarms](./smoke-alarms/smoke-alarms.md)
 
-Smoke Alarms (required for RTA):
+Smoke Alarms are required for RTA:
 
     I don’t remember spotting these while I was there but if they are installed, please send me a photo
     See details on report for where they need to be
