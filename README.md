@@ -40,7 +40,15 @@ Extra note:
 
     Consider conduction fan on top of fire to distribute heat to kitchen/dining faster, see link here
 
-Mark down examples -  https://markdown-it.github.io/
+Mark down examples:
+*  https://markdown-it.github.io/
+* https://stackoverflow.com/questions/47344571/how-to-draw-checkbox-or-tick-mark-in-github-markdown-table
+* [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+* https://github.com/ikatyang/emoji-cheat-sheet
+* https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia
+* https://velog.io/@sapurnovdev/Markdown-Cheat-Sheet-with-Emoji
+* https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+* https://emojipedia.org/
 
 - [x] Write the press release
 - [ ] Update the website
