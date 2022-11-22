@@ -49,6 +49,7 @@ Mark down examples:
 * https://velog.io/@sapurnovdev/Markdown-Cheat-Sheet-with-Emoji
 * https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 * https://emojipedia.org/
+* https://tutorialzine.com/2014/12/you-dont-need-icons-here-are-100-unicode-symbols-that-you-can-use
 
 - [x] Write the press release
 - [ ] Update the website
@@ -58,4 +59,8 @@ Mark down examples:
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
+
+### Unicode 
+* Check Mark:  &#x2714;  :  ✔
+* Cross Mark:  &#x2718; :  ✘	
 

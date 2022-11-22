@@ -10,3 +10,10 @@ Smoke Alarms (required for RTA):
 <img src="./20221104_100800-firealarm-in-main-living-area-2.jpg"  alt="firealarm-in-main-living-area-2" width="600" />
 
 <a href="./20221104_100800-firealarm-in-main-living-area-2.jpg" target="_blank"><img src="./20221104_100800-firealarm-in-main-living-area-2.jpg"  alt="firealarm-in-main-living-area-2" width="600" /></a>
+
+
+| Workarea         | Location | Checkpoint | Complies |
+|------------------|------------| ----------|----------|
+| Master Bedroom   | Inside Master Bedroom, above main entrance doors | Alarm Tested | &#x2714; |
+| Master Bedroom   | Inside Master Bedroom, above main entrance doors | Expiry Date | &#x2714; |
+| Main Living Area | Expiry Date  |     |          |
