@@ -1,0 +1,1 @@
+# kitchen-windows - draft stopping
