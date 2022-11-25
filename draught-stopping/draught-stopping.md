@@ -10,7 +10,7 @@
 
 
 
-## Kitchen: Windows (V-Seal)
+## [Kitchen: Windows (V-Seal)](./kitchen-windows/kitchen-windows.md)
 
 
 | Syntax      | Description |
