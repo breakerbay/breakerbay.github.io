@@ -64,3 +64,98 @@ git push origin empty-branch
 find /path/to/search -name "package.json" -exec grep -l "@sveltejs/kit" {} +
 
 find /Users/richardhancock -name "package.json" -exec grep -l "@sveltejs/kit" {} +
+
+
+richard:breakerbay.github.io richardhancock$ find /Users/richardhancock -name "package.json" -exec grep -l "@sveltejs/kit" {} +
+/Users/richardhancock/cas/cas-svelte-admin/package.json
+/Users/richardhancock/cas/cas-admin/package.json
+/Users/richardhancock/cas/brealerbay.github.io/sveltekit-checker/package.json
+
+/Users/richardhancock/cas/brealerbay.github.io/breakerbay.github.io/package.json
+
+/Users/richardhancock/svelte/sveltekit/sveltekit-typescript-demo/package.json
+
+/Users/richardhancock/svelte/sveltekit-starter/package.json
+
+/Users/richardhancock/svelte/smui/smui-example-sveltekit/package.json
+
+/Users/richardhancock/sveltekit/lets-build-something-awesome-with-svelte-and-sveltekit/Deploy/package.json
+/Users/richardhancock/sveltekit/lets-build-something-awesome-with-svelte-and-sveltekit/Setup.zip/package.json
+/Users/richardhancock/sveltekit/lets-build-something-awesome-with-svelte-and-sveltekit/Starter/package.json
+/Users/richardhancock/sveltekit/lets-build-something-awesome-with-svelte-and-sveltekit/seo/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter05/Complete/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter05/Start/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter02/Complete/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter02/Start/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter03/Complete/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter03/Start/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter04/Complete/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter04/Start/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter10/Complete/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter10/Start/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter11/Complete/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter11/Start/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter16/Complete/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter08/Complete/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter08/Start/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter01/Complete/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter06/Complete/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter06/Start/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter07/Complete/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter07/Start/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter09/Complete/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter09/Start/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter13/Complete/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter13/Start/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter14/Complete/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter15/Complete/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter12/Complete/package.json
+/Users/richardhancock/sveltekit/Svelte-with-Test-Driven-Development-main/Chapter12/Start/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 4/booklovers-1-project-setup/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 4/booklovers-master/booklovers-master/node_modules/@sveltejs/kit/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 4/booklovers-master/booklovers-master/node_modules/@sveltejs/adapter-auto/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 4/booklovers-master/booklovers-master/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 4/booklovers-2-firebase-setup/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/intro-site-6-layouts/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/intro-site-7-prefetch-link/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/intro-site-10-forms/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/intro-site-4-route-parameters/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/intro-site-main/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/intro-site-14-server-routes/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/intro-site-5-server-load-functions-with-env-variables/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/intro-site-13-error-pages/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/intro-site-12-page-rendering/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/intro-site-3-pages-and-routes/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/Challenge-personal-site/node_modules/@sveltejs/kit/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/Challenge-personal-site/node_modules/@sveltejs/adapter-auto/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/Challenge-personal-site/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/intro-site-2-sveltekit-tour/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/intro-site-1-getting-started/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/Challenge-Form/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course/Section 3/intro-site-15-hooks/package.json
+
+/Users/richardhancock/sveltekit/sveltekit-skeleton/package.json
+
+/Users/richardhancock/sveltekit/sveltekit-personal-site/package.json
+
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 4/booklovers-1-project-setup/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 4/booklovers-master/booklovers-master/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 4/booklovers-2-firebase-setup/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 3/intro-site-6-layouts/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 3/intro-site-7-prefetch-link/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 3/intro-site-10-forms/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 3/intro-site-4-route-parameters/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 3/intro-site-main/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 3/intro-site-14-server-routes/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 3/intro-site-5-server-load-functions-with-env-variables/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 3/intro-site-13-error-pages/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 3/intro-site-12-page-rendering/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 3/intro-site-3-pages-and-routes/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 3/Challenge-personal-site/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 3/intro-site-2-sveltekit-tour/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 3/intro-site-1-getting-started/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 3/Challenge-Form/package.json
+/Users/richardhancock/sveltekit/Master-Svelte-Framework---The-Complete-Course-main/Section 3/intro-site-15-hooks/package.json
+/Users/richardhancock/sveltekit/SvelteKit-Up-and-Running-main/full_project/package.json
+
+richard:breakerbay.github.io richardhancock$ 
